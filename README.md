@@ -20,25 +20,21 @@ Como executar o projeto
 
     Clone este repositório:
 
-bash
 
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
     Acesse a pasta do projeto:
 
-bash
 
 cd nome-do-repositorio
 
     Instale as dependências do projeto:
 
-bash
 
 npm install
 
     Execute o servidor:
 
-bash
 
 ng serve
 
@@ -60,6 +56,6 @@ Como utilizar o projeto
 <br />
 Desenvolvedor
 
-    Nome: Seu Nome
-    Email: seu-email@exemplo.com
-    LinkedIn: Seu perfil no LinkedIn
+    Nome: Maria Fernanda 
+    Email: mariafernanda-coro@hotmail.com
+    LinkedIn: https://www.linkedin.com/in/maria-fernanda-feitoza-dos-santos-29490515a/
