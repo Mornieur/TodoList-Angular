@@ -1,27 +1,63 @@
-# TodoLIst
+<h1>Todolist Angular</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+Este é um projeto básico de Todolist desenvolvido com Angular.
+Funcionalidades
 
-## Development server
+    Adicionar tarefas
+    Editar tarefas
+    Excluir tarefas
+    Listar tarefas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Pré-requisitos
 
-## Code scaffolding
+    Angular CLI
+    Node.js
+    npm
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Como executar o projeto
 
-## Build
+    Clone este repositório:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+bash
 
-## Running unit tests
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+    Acesse a pasta do projeto:
 
-## Running end-to-end tests
+bash
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+cd nome-do-repositorio
 
-## Further help
+    Instale as dependências do projeto:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+bash
+
+npm install
+
+    Execute o servidor:
+
+bash
+
+ng serve
+
+    Abra o navegador e acesse o endereço http://localhost:4200
+
+Como utilizar o projeto
+
+    Adicionar tarefa:
+    Digite o nome da tarefa no campo "Enter Task" e clique no botão "+".
+
+    Editar tarefa:
+    Clique no botão "e" correspondente à tarefa que deseja editar. Na janela que abrir, digite o novo nome da tarefa no campo "Enter Task" e clique no botão "Update".
+
+    Excluir tarefa:
+    Clique no botão "X" correspondente à tarefa que deseja excluir.
+
+    Listar tarefas:
+    As tarefas adicionadas serão exibidas na lista abaixo do campo "Enter Task".
+
+Desenvolvedor
+
+    Nome: Seu Nome
+    Email: seu-email@exemplo.com
+    LinkedIn: Seu perfil no LinkedIn
